@@ -32,14 +32,17 @@ Prometheus | Grafana
 🏗️ Infrastructure Automation with CloudFormation
 💾 Cloud Storage Management (AWS + LVM)
 
-📈 GitHub Stats
 
 🌱 Currently Learning
 Terraform & Advanced Kubernetes
 Monitoring & Observability (Deep Dive)
+
 🤝 Let's Connect
+
 💼 LinkedIn: https://linkedin.com/in/kunalvhatkar17198
+
 📧 Email: kunalvhatkar3@gmail.com
 
 ⚡ Fun Fact
+
 I automate things… even things that don’t need automation 😄
