@@ -1,16 +1,45 @@
-## Hi there 👋
+👋 Hi, I'm Kunalvhatkar
 
-<!--
-**Kunalvhatkar/Kunalvhatkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Cloud & DevOps Engineer | ☁️ AWS Enthusiast | 🚀 Automation Lover
 
-Here are some ideas to get you started:
+🚀 About Me
+🎓 MSc IT (Cloud Computing) Graduate
+☁️ Hands-on with AWS, Azure & DevOps Tools
+🔄 Building CI/CD pipelines & automation workflows
+🐳 Exploring Docker & Kubernetes
+📈 Focused on scalable, secure cloud architectures
+🛠️ Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+☁️ Cloud:
+AWS (EC2, RDS, Lambda, S3, IAM, CloudFormation)
+Azure (VM, Storage, AKS, Functions)
+
+⚙️ DevOps:
+Jenkins | GitHub Actions | Docker | Kubernetes
+
+🏗️ IaC & Automation:
+CloudFormation | Terraform (Learning) | Ansible (Learning)
+
+💻 Scripting & Tools:
+Bash | Python | PowerShell | Linux | Git
+
+📊 Monitoring:
+Prometheus | Grafana
+
+🔥 Projects
+🚀 CI/CD Pipeline with Jenkins & AWS
+⚡ Serverless API using AWS Lambda
+🏗️ Infrastructure Automation with CloudFormation
+💾 Cloud Storage Management (AWS + LVM)
+
+📈 GitHub Stats
+
+🌱 Currently Learning
+Terraform & Advanced Kubernetes
+Monitoring & Observability (Deep Dive)
+🤝 Let's Connect
+💼 LinkedIn: https://linkedin.com/in/kunalvhatkar17198
+📧 Email: kunalvhatkar3@gmail.com
+
+⚡ Fun Fact
+I automate things… even things that don’t need automation 😄
