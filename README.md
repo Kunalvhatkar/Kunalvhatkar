@@ -106,12 +106,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kunalvhatkar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kunalvhatkar&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kunalvhatkar&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kunalvhatkar&theme=dark&hide_border=true&background=0F172A&stroke=38BDF8&ring=38BDF8&fire=A78BFA&currStreakLabel=38BDF8" alt="GitHub Streak" width="100%"/>
 </p>
 
 ---
