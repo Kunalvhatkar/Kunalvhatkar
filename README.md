@@ -1,8 +1,12 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:1E293B&height=200&section=header&text=Kunal%20Vhatkar&fontSize=42&fontColor=38BDF8&animation=fadeIn&fontAlignY=35&desc=Cloud%20%26%20DevOps%20Engineer&descAlignY=55&descSize=18&descColor=94A3B8" alt="header banner" width="100%"/>
+</p>
+
 <h1 align="center">Hi 👋, I'm Kunal Vhatkar</h1>
 <h3 align="center">☁️ Cloud & DevOps Engineer | AWS Enthusiast | Automation Lover 🚀</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2EA3F2&center=true&vCenter=true&width=600&lines=Building+CI%2FCD+Pipelines+%F0%9F%94%84;Automating+Cloud+Infrastructure+%E2%98%81%EF%B8%8F;Exploring+Docker+%26+Kubernetes+%F0%9F%90%B3;Always+Learning%2C+Always+Building+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38BDF8&background=0F172A00&center=true&vCenter=true&width=600&lines=Building+CI%2FCD+Pipelines+%F0%9F%94%84;Automating+Cloud+Infrastructure+%E2%98%81%EF%B8%8F;Exploring+Docker+%26+Kubernetes+%F0%9F%90%B3;Monitoring+with+Elastic+APM+%F0%9F%94%8D;Always+Learning%2C+Always+Building+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -66,11 +70,15 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 </p>
 
-**📊 Monitoring**
+**📊 Monitoring & Observability**
 <p>
   <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus"/>
   <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana"/>
+  <img src="https://img.shields.io/badge/Elastic%20APM-005571?style=for-the-badge&logo=elastic&logoColor=white" alt="Elastic APM"/>
+  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" alt="Elasticsearch"/>
 </p>
+
+*Prometheus · Grafana · Elastic APM (Application Performance Monitoring) · Elasticsearch · Kibana*
 
 ---
 
